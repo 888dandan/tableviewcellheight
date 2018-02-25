@@ -13,6 +13,8 @@
 		F34BDD62204117F600492665 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F34BDD61204117F600492665 /* Assets.xcassets */; };
 		F34BDD65204117F600492665 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F34BDD63204117F600492665 /* LaunchScreen.storyboard */; };
 		F34BDD68204117F600492665 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F34BDD67204117F600492665 /* main.m */; };
+		F34BDD712041189A00492665 /* TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F34BDD6F2041189A00492665 /* TableViewCell.m */; };
+		F34BDD722041189A00492665 /* TableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = F34BDD702041189A00492665 /* TableViewCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,9 @@
 		F34BDD64204117F600492665 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F34BDD66204117F600492665 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F34BDD67204117F600492665 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F34BDD6E2041189A00492665 /* TableViewCell.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TableViewCell.h; sourceTree = "<group>"; };
+		F34BDD6F2041189A00492665 /* TableViewCell.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewCell.m; sourceTree = "<group>"; };
+		F34BDD702041189A00492665 /* TableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = TableViewCell.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +67,9 @@
 				F34BDD59204117F600492665 /* AppDelegate.m */,
 				F34BDD5B204117F600492665 /* ViewController.h */,
 				F34BDD5C204117F600492665 /* ViewController.m */,
+				F34BDD6E2041189A00492665 /* TableViewCell.h */,
+				F34BDD6F2041189A00492665 /* TableViewCell.m */,
+				F34BDD702041189A00492665 /* TableViewCell.xib */,
 				F34BDD5E204117F600492665 /* Main.storyboard */,
 				F34BDD61204117F600492665 /* Assets.xcassets */,
 				F34BDD63204117F600492665 /* LaunchScreen.storyboard */,
@@ -130,6 +138,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F34BDD65204117F600492665 /* LaunchScreen.storyboard in Resources */,
+				F34BDD722041189A00492665 /* TableViewCell.xib in Resources */,
 				F34BDD62204117F600492665 /* Assets.xcassets in Resources */,
 				F34BDD60204117F600492665 /* Main.storyboard in Resources */,
 			);
@@ -143,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F34BDD5D204117F600492665 /* ViewController.m in Sources */,
+				F34BDD712041189A00492665 /* TableViewCell.m in Sources */,
 				F34BDD68204117F600492665 /* main.m in Sources */,
 				F34BDD5A204117F600492665 /* AppDelegate.m in Sources */,
 			);
