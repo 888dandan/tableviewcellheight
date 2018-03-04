@@ -13,6 +13,7 @@
 - (void)awakeFromNib {
     [super awakeFromNib];
     // Initialization code
+    NSLog(@"第二次提交代码");
 }
 
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated {
