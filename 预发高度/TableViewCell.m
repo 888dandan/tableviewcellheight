@@ -14,6 +14,7 @@
     [super awakeFromNib];
     // Initialization code
     NSLog(@"第二次提交代码");
+    NSLog(@"第三次");
 }
 
 - (void)setSelected:(BOOL)selected animated:(BOOL)animated {
