@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F33BA4CD205E903A0051E02B /* tabviewcellHeight.rtf in Resources */ = {isa = PBXBuildFile; fileRef = F33BA4CC205E903A0051E02B /* tabviewcellHeight.rtf */; };
 		F34BDD5A204117F600492665 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F34BDD59204117F600492665 /* AppDelegate.m */; };
 		F34BDD5D204117F600492665 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F34BDD5C204117F600492665 /* ViewController.m */; };
 		F34BDD60204117F600492665 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F34BDD5E204117F600492665 /* Main.storyboard */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F33BA4CC205E903A0051E02B /* tabviewcellHeight.rtf */ = {isa = PBXFileReference; lastKnownFileType = text.rtf; path = tabviewcellHeight.rtf; sourceTree = "<group>"; };
 		F34BDD55204117F600492665 /* 预发高度.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "预发高度.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F34BDD58204117F600492665 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		F34BDD59204117F600492665 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -71,6 +73,7 @@
 				F34BDD6F2041189A00492665 /* TableViewCell.m */,
 				F34BDD702041189A00492665 /* TableViewCell.xib */,
 				F34BDD5E204117F600492665 /* Main.storyboard */,
+				F33BA4CC205E903A0051E02B /* tabviewcellHeight.rtf */,
 				F34BDD61204117F600492665 /* Assets.xcassets */,
 				F34BDD63204117F600492665 /* LaunchScreen.storyboard */,
 				F34BDD66204117F600492665 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F33BA4CD205E903A0051E02B /* tabviewcellHeight.rtf in Resources */,
 				F34BDD65204117F600492665 /* LaunchScreen.storyboard in Resources */,
 				F34BDD722041189A00492665 /* TableViewCell.xib in Resources */,
 				F34BDD62204117F600492665 /* Assets.xcassets in Resources */,

@@ -19,18 +19,15 @@
                 <rect key="frame" x="0.0" y="0.0" width="342" height="210.5"/>
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
-                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="jrgrijgnnergjknegjknekjen" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HtT-tU-9xZ">
-                        <rect key="frame" x="5" y="5" width="172.5" height="18"/>
-                        <constraints>
-                            <constraint firstAttribute="height" constant="18" id="uhi-cY-8nw"/>
-                        </constraints>
-                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="749" text="jrgrijgnnergjknegjknekjen999999999999999999999999999999999999999999999999999999999999999999999999999999999990000000000000" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="HtT-tU-9xZ">
+                        <rect key="frame" x="5" y="5" width="337" height="0.0"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
                         <nil key="textColor"/>
                         <nil key="highlightedColor"/>
                     </label>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="nJI-qR-9QK">
-                        <rect key="frame" x="12" y="35" width="318" height="85.5"/>
-                        <string key="text">asbxhabhjabcjhabcjhbahjsbbchbahjcbhcbahjbcasbxhabhjabcjhabcjhbahjsbbchbahjcbhcbahjbcasbxhabhjabcjhabcjhbahjsbbchbahjcbhcbahjbcasbxhabhjabcjhabcjhbahjsbbchbahjcbhcbahjbcasbxhabhjabcjhabcjhbahjsbbchbahjcbhcbahjbcasbxhabhjabcjhabcjhbahjsbbchbahjcbhcbahjbc</string>
+                        <rect key="frame" x="12" y="17" width="318" height="103.5"/>
+                        <string key="text">asbxhabhjabcjhabcjhbahjsbbchbahjcbhcbahjbcasbxhabhjabcjhabcjhbahjsbbchbahjcbhcbahjbcasbxhabhjabcjhabcjhbahjsbbchbahjcbhcbahjbcasbxhabhjabcjhabcjhbahjsbbchbahjcbhcbahjbcasbxhabhjabcjhabcjhbahjsbbchbahjcbhcbahjbcasbxhabhjabcjhabcjhbahjsbbchbahjcbhcbahjbc888888888888888888888888888888888888888</string>
                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                         <nil key="textColor"/>
                         <nil key="highlightedColor"/>
@@ -42,6 +39,7 @@
                     <constraint firstItem="nJI-qR-9QK" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="12" id="VLC-cL-Pk8"/>
                     <constraint firstAttribute="trailing" secondItem="nJI-qR-9QK" secondAttribute="trailing" constant="12" id="Val-8e-07E"/>
                     <constraint firstAttribute="bottom" secondItem="nJI-qR-9QK" secondAttribute="bottom" constant="90" id="Xbd-FO-JYl"/>
+                    <constraint firstAttribute="trailing" secondItem="HtT-tU-9xZ" secondAttribute="trailing" id="ase-N3-lMc"/>
                     <constraint firstItem="HtT-tU-9xZ" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="5" id="t76-fj-ix7"/>
                 </constraints>
             </tableViewCellContentView>
