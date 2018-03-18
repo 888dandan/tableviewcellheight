@@ -47,7 +47,7 @@
     TableViewCell *cell = [tableView dequeueReusableCellWithIdentifier:@"TableViewCell"];
     
     if (!cell) {
-        
+        // 加载xib文件
         cell=[[[NSBundle mainBundle]loadNibNamed:@"TableViewCell" owner:nil options:nil]firstObject];
         
     }
